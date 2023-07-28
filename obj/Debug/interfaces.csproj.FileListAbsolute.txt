@@ -1,0 +1,3 @@
+C:\dialytask\Assisted Practice\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\interfaces\obj\Debug\interfaces.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
